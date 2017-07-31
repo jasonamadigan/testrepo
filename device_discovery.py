@@ -4,6 +4,8 @@ import re
 from pprint import pprint
 import creds
 
+##Adding stuff I don't want
+
 ####WARNING
 #slow ACS server responds breaks program.  Additional checks should be implmented
 
@@ -16,7 +18,6 @@ import creds
 ##Add logging
 
 ##set hostname
-
 
 
 ##NOTES
